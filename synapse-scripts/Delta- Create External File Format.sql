@@ -1,0 +1,4 @@
+CREATE EXTERNAL FILE FORMAT [DeltaLakeFileFormat] WITH 
+(
+    FORMAT_TYPE = DELTA 
+)
